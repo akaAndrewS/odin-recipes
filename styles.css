@@ -1,0 +1,15 @@
+/* styles */
+
+body {
+    color: white;
+    background-color: black;
+}
+
+.recipe-picture {
+    width: 400px;
+    height: auto;
+}
+
+.description {
+    background-color: rgb(58, 57, 57);
+}
